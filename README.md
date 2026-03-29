@@ -131,8 +131,6 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAEEDULLAH&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAEEDULLAH&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 <br><br>
 
