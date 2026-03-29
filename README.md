@@ -45,25 +45,27 @@ open_to:
 <td valign="top" width="50%">
 
 ### 📈 Data Analytics
-
-* KPI Tracking & Reporting
-* Data Cleaning & Validation
-* Dashboard Development
-* Trend & Performance Analysis
-* Business Insights
-* Data Visualization
+- KPI Tracking & Reporting
+- Data Cleaning & Validation
+- Dashboard Development
+- Trend & Performance Analysis
+- Business Insights
+- Data Visualization
+- SQL Queries & Data Extraction
+- Excel & Power BI Reporting
 
 </td>
 <td valign="top" width="50%">
 
 ### ⚡ Professional Skills
-
-* Problem Solving
-* Attention to Detail
-* Time Management
-* Team Collaboration
-* Communication Skills
-* Fast Learner
+- Problem Solving
+- Attention to Detail
+- Time Management
+- Team Collaboration
+- Communication Skills
+- Fast Learner
+- Adaptability
+- Report Writing
 
 </td>
 </tr>
