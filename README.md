@@ -28,6 +28,8 @@ open_to:
   - Reporting Analyst
   - MIS
   - Operations Support
+  - Data Entry
+ 
 ```
 
 💡 Detail-oriented analyst passionate about transforming messy datasets into actionable insights.
@@ -80,8 +82,7 @@ open_to:
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 
 ### 🌐 Development
@@ -167,13 +168,13 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:Saeedtech990@gmail.com">
+<a href="Saeedtech990@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/SAEEDULLAH">
+<a href="https://github.com/saeedullah-tech">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your-link">
+<a href="www.linkedin.com/in/saeed-ullah-83806a3a8">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
