@@ -1,76 +1,96 @@
 <h1 align="center">Saeed Ullah</h1>
-<h3 align="center">Data & BI Analyst | Dashboard Developer</h3>
+<h3 align="center">Data & BI Analyst • Dashboard Developer</h3>
 
 <p align="center">
-I help businesses see their numbers clearly — sales, profit, and performance — through clean, automated dashboards.
+I help businesses turn raw data into clear decisions — tracking <b>sales, profit, and performance</b> through clean dashboards.
 </p>
 
 <p align="center">
-📍 Riyadh, Saudi Arabia • 💼 Open to Work • 🔄 IQAMA Transferable
+📍 Riyadh, Saudi Arabia • 💼 Open to Work • 🔄 Transferable IQAMA
 </p>
 
 ---
 
 ## 🚀 What I Do
 
-I turn messy business data into clear insights:
+I don’t just build dashboards — I solve business visibility problems.
 
-- 📊 Track sales performance and trends  
+- 📊 Understand sales performance instantly  
 - 💰 Identify profit leaks and cost issues  
-- 📉 Highlight underperforming products or regions  
+- 📉 Detect underperforming products, regions, or operations  
 
 ---
 
 ## 🧠 Core Skills
 
-**Data & BI**  
-`Power BI` `SQL` `Excel` `Tableau` `Python` `R`
+<p>
+<strong>Data & BI</strong><br>
+Power BI • SQL • Excel • Tableau • Python • R
+</p>
 
-**Web & CMS**  
-`HTML` `CSS` `JavaScript` `WordPress` `WooCommerce`
+<p>
+<strong>Web & Systems</strong><br>
+HTML • CSS • JavaScript • WordPress • WooCommerce
+</p>
 
-**Tools**  
-`Power Query` `DAX` `GitHub` `Google Sheets`
+<p>
+<strong>Tools</strong><br>
+Power Query • DAX • GitHub • Google Sheets
+</p>
 
 ---
 
 ## 📊 Featured Projects
 
 ### 📌 Sales Performance Dashboard
-Tracks revenue trends, KPIs, and regional performance.
+Built an interactive dashboard tracking revenue trends, KPIs, and regional performance.
+
+✔ Identifies top-performing products  
+✔ Highlights monthly growth trends  
+✔ Enables faster decision-making  
 
 👉 [View Project](#)
 
 ---
 
-### 📌 Profit & Loss Analysis
-Identifies cost overruns and profit margins across periods.
+### 📌 Profit & Loss Analysis System
+Developed a financial tracking system to monitor profit, expenses, and budget variance.
+
+✔ Tracks profit margins across periods  
+✔ Detects cost overruns early  
+✔ Improves financial visibility  
 
 👉 [View Project](#)
 
 ---
 
 ### 📌 KPI Operations Dashboard
-Automates reporting and tracks operational performance.
+Automated operational reporting with real-time KPI tracking.
+
+✔ Reduced manual reporting effort  
+✔ Monitors 10+ key metrics  
+✔ Improves operational efficiency  
 
 👉 [View Project](#)
 
 ---
 
-## 💼 What I Can Do For You
+## 💼 What I Can Do For Your Business
 
-- Build Power BI dashboards  
-- Create profit & cost tracking systems  
-- Clean and structure business data  
-- Automate reporting processes  
+| Problem | Solution |
+|--------|---------|
+| No clear view of sales | Interactive dashboard with KPIs |
+| Profit unclear | Full P&L tracking system |
+| Messy data | Clean, structured datasets |
+| Time wasted on reports | Automated reporting solutions |
 
 ---
 
-## 📈 Currently Working On
+## 📈 Currently Improving
 
-- Real estate data dashboard  
-- Advanced SQL reporting projects  
-- Financial reporting systems  
+- Real estate market analytics dashboard  
+- Advanced SQL multi-table reporting  
+- Financial reporting systems (QuickBooks focus)  
 
 ---
 
