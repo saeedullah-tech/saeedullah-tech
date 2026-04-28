@@ -1,139 +1,117 @@
-<div align="center">
+# Saeed Ullah — Data & BI Analyst | Dashboard Developer
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Saeed+Ullah;Junior+Data+Analyst;Turning+Data+Into+Insights" />
+> I help businesses see their numbers clearly — sales, profit, and performance — through clean, automated dashboards.
 
-<img src="https://img.shields.io/badge/📍_Riyadh,_Saudi_Arabia-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎓_B.Sc._Computer_Science-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💼_Open_to_Work-FF6B35?style=for-the-badge" />
-
-### ✨ *Turning raw data into stories worth telling.*
-
-</div>
+Based in **Riyadh, Saudi Arabia** · Available for freelance & full-time · IQAMA Transferable
 
 ---
 
-# 🚀 About Me
+## What I do
 
-```yaml
-name: Saeed Ullah
-role: Junior Data Analyst
-location: Riyadh, Saudi Arabia
-education: B.Sc. Computer Science
-languages:
-  - Urdu (Native)
-  - English (Advanced)
-  - Arabic (Intermediate)
-open_to:
-  - Data Analyst
-  - Reporting Analyst
-  - MIS
-  - Operations Support
-  - Data Entry
- 
-```
+I turn messy business data into dashboards that answer real questions:
 
-💡 Detail-oriented analyst passionate about transforming messy datasets into actionable insights.
+- **How are sales performing this month vs last month?**
+- **Where is profit leaking?**
+- **Which products, regions, or teams are underperforming?**
 
-📊 I build dashboards, automate reports, and create visualizations that help decision-makers understand data faster.
+I build the reports and dashboards that give decision-makers those answers — fast and without needing to dig through spreadsheets.
 
 ---
 
-# 🧠 Skills & Expertise
+## Core skills
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Data & Reporting**
+`Power BI` `SQL` `Excel (Advanced)` `Tableau` `Python (Pandas)` `R`
 
-### 📈 Data Analytics
-- KPI Tracking & Reporting
-- Data Cleaning & Validation
-- Dashboard Development
-- Trend & Performance Analysis
-- Business Insights
-- Data Visualization
-- SQL Queries & Data Extraction
-- Excel & Power BI Reporting
+**Web & CMS**
+`HTML` `CSS` `JavaScript` `WordPress` `WooCommerce`
 
-</td>
-<td valign="top" width="50%">
+**Tools**
+`Power Query` `DAX` `GitHub` `Google Sheets` `Canva` `Microsoft 365`
 
-### ⚡ Professional Skills
-- Problem Solving
-- Attention to Detail
-- Time Management
-- Team Collaboration
-- Communication Skills
-- Fast Learner
-- Adaptability
-- Report Writing
-
-</td>
-</tr>
-</table>
+**Languages**
+`English (Professional)` `Arabic (Intermediate)` `Urdu (Native)`
 
 ---
 
-# 🛠️ Tech Stack
+## Featured projects
 
-<div align="center">
+### Sales Performance Dashboard
+**Tools:** Power BI · SQL · Excel
 
-### 📊 Analytics Tools
+Tracks monthly sales, revenue trends, and target vs. actual performance across product lines and regions.
+Built for a simulated retail business with 10+ KPIs and automated weekly refresh.
 
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-
-### 🌐 Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode" />
-
-</div>
+→ *[View Project](#)*
 
 ---
 
+### Profit & Loss Analysis Report
+**Tools:** Excel · Power Query · Power BI
 
-# 📜 Certifications
+Multi-scenario budget model with variance analysis — highlights where costs exceed budget and visualises P&L trends across 3 financial periods.
 
-🏅 Microsoft Excel for Data Analysis
-🏅 Power BI Fundamentals
-🏅 SQL / MySQL for Data Analysis
-🏅 Data Analytics & Business Intelligence
-🏅 Front-End Web Development
-🏅 WordPress Development
+→ *[View Project](#)*
 
 ---
 
-# 🌐 Connect With Me
+### Market Intelligence Report — Saudi Consumer Landscape
+**Tools:** Excel · PowerPoint · Canva
 
-<div align="center">
+Structured research across 4 Saudi industry sectors. Delivered as a 15-page report with data-driven recommendations aligned with Vision 2030 growth areas.
 
-<a href="https://Saeedtech990@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/saeedullah-tech">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/saeed-ullah-83806a3a8">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+→ *[View Project](#)*
 
 ---
 
-<div align="center">
+### KPI Operations Dashboard
+**Tools:** Power BI · DAX · SQL
 
+End-to-end BI dashboard monitoring 10+ operational metrics with automated data refresh — eliminated ~3 hours/week of manual reporting for a simulated operations team.
 
-<br><br>
+→ *[View Project](#)*
 
-### ⭐ "Data is the new oil — but only if you know how to refine it."
+---
 
-</div>
+## What I can build for your business
+
+| Need | Deliverable |
+|------|-------------|
+| Track sales and revenue | Live Power BI or Excel dashboard |
+| Monitor profit and costs | P&L report with budget vs. actual |
+| Understand customer behaviour | Segmentation and trend analysis |
+| Clean up messy data | Structured, validated database |
+| Automate weekly reports | Scheduled Power BI or Excel reports |
+| Business website | WordPress site with analytics setup |
+
+---
+
+## Currently working on
+
+- Building a real estate market data dashboard (residential & commercial sectors)
+- Completing QuickBooks certification for financial reporting projects
+- Expanding SQL portfolio with complex multi-table reporting queries
+
+---
+
+## Contact
+
+I'm open to freelance projects, full-time roles, and collaborations.
+
+📧 **Email:** Saeedtech990@gmail.com
+📍 **Location:** Riyadh, Saudi Arabia
+💼 **LinkedIn:** [linkedin.com/in/saeedullah](#)
+📁 **Portfolio:** Available on request
+
+> *Response time: within 24 hours*
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+</p>
