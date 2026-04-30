@@ -40,38 +40,6 @@ Power Query • DAX • GitHub • Google Sheets
 
 ---
 
-## 📊 Featured Projects
-
-### 📌 Sales Performance Dashboard
-Built an interactive dashboard tracking revenue trends, KPIs, and regional performance.
-
-✔ Identifies top-performing products  
-✔ Highlights monthly growth trends  
-✔ Enables faster decision-making  
-
-👉 [View Project](#)
-
----
-
-### 📌 Profit & Loss Analysis System
-Developed a financial tracking system to monitor profit, expenses, and budget variance.
-
-✔ Tracks profit margins across periods  
-✔ Detects cost overruns early  
-✔ Improves financial visibility  
-
-👉 [View Project](#)
-
----
-
-### 📌 KPI Operations Dashboard
-Automated operational reporting with real-time KPI tracking.
-
-✔ Reduced manual reporting effort  
-✔ Monitors 10+ key metrics  
-✔ Improves operational efficiency  
-
-👉 [View Project](#)
 
 ---
 
