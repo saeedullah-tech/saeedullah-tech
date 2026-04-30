@@ -65,7 +65,7 @@ Power Query • DAX • GitHub • Google Sheets
 ## 📬 Contact
 
 📧 Saeedtech990@gmail.com  
-💼 [LinkedIn](#)
+💼 [LinkedIn](www.linkedin.com/in/saeed-ullah-83806a3a8)
 
 ---
 
