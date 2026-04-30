@@ -6,7 +6,7 @@ I help businesses turn raw data into clear decisions — tracking <b>sales, prof
 </p>
 
 <p align="center">
-📍 Riyadh, Saudi Arabia • 💼 Open to Work • 🔄 Transferable IQAMA
+📍 Riyadh, Saudi Arabia • 💼 Open to Work • [LinkedIn](https://www.linkedin.com/in/saeed-ullah-83806a3a8)
 </p>
 
 ---
