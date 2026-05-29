@@ -54,7 +54,7 @@ Power Query • DAX • GitHub • Google Sheets
 
 ---
 
-## 📈 Currently Improving
+## 📈 Certificates
 
 - Real estate market analytics dashboard  
 - Advanced SQL multi-table reporting  
