@@ -56,7 +56,7 @@ Power Query • DAX • GitHub • Google Sheets
 
 ## 📈 Certificates
 
-- Real estate market analytics dashboard  
+- https://github.com/saeedullah-tech/saeedullah-tech/blob/c84ceda9b1fcfe539d0ded086a86161d507efeb3/10066650_Introduction_to_MS_Excel_9784877.pdf
 - Advanced SQL multi-table reporting  
 - Financial reporting systems (QuickBooks focus)  
 
