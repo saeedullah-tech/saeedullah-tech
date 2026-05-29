@@ -7,6 +7,7 @@ I help businesses turn raw data into clear decisions — tracking <b>sales, prof
 
 <p align="center">
 📍 Riyadh, Saudi Arabia • 💼 Open to Work • [LinkedIn](https://www.linkedin.com/in/saeed-ullah-83806a3a8)
+  • [Certificates](https://github.com/saeedullah-tech/Certificate/tree/main)
 </p>
 
 ---
