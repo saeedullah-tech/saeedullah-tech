@@ -10,6 +10,7 @@ My expertise includes Data Analysis, Data Entry, Data Cleaning, Dashboard Develo
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saeedtech990@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-ullah-83806a3a8/)
+[![Certificate](https://img.shields.io/badge/Certificate-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/saeedullah-tech/Certificate)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-28a745?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
 </div>
