@@ -7,8 +7,8 @@
 *I help businesses organize, clean, analyze, and visualize data —*
 *transforming raw information into actionable business insights.*
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your email)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your LinkedIn URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saeedtech990@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-ullah-83806a3a8/)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-28a745?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
 </div>
@@ -82,7 +82,7 @@
 ▸ Advanced Power BI        ████████░░  80%
 ▸ DAX & Data Modeling      ███████░░░  70%
 ▸ Business Intelligence    ████████░░  80%
-▸ Advanced SQL Analytics   ██████░░░░  60%
+▸ Advanced SQL Analytics   ██████░░░░  80%
 ```
 
 ---
@@ -92,8 +92,8 @@
 🌍 **Open to opportunities in:**
 Data Analyst · Reporting Analyst · Business Intelligence · Excel & Google Sheets · Data Entry · Dashboard Development
 
-[![Email](https://img.shields.io/badge/Reach%20me%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your email)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your LinkedIn URL)
+[![Email](https://img.shields.io/badge/Reach%20me%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](su672644@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-ullah-83806a3a8/)
 
 ---
 
@@ -102,12 +102,6 @@ Data Analyst · Reporting Analyst · Business Intelligence · Excel & Google She
 </div>
 
 ---
-
-## 📬 Contact
-
-📧 Saeedtech990@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/saeed-ullah-83806a3a8)
-
 ---
 
 <p align="center">
