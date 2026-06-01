@@ -1,57 +1,105 @@
-<h1 align="center">Saeed Ullah</h1>
-<h3 align="center">Data & BI Analyst • Dashboard Developer</h3>
+<div align="center">
 
-<p align="center">
-I help businesses turn raw data into clear decisions — tracking <b>sales, profit, and performance</b> through clean dashboards.
-</p>
+# Hi, I'm Saeed Ullah 👋
 
-<p align="center">
-📍 Riyadh, Saudi Arabia • 💼 Open to Work • [LinkedIn](https://www.linkedin.com/in/saeed-ullah-83806a3a8)
-  • [Certificates](https://github.com/saeedullah-tech/Certificate/tree/main)
-</p>
+### Data Analyst · Excel & Google Sheets Specialist · Power BI Dashboard Developer
 
----
+*I help businesses organize, clean, analyze, and visualize data —*
+*transforming raw information into actionable business insights.*
 
-## 🚀 What I Do
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your LinkedIn URL)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-28a745?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
-I don’t just build dashboards — I solve business visibility problems.
-
-- 📊 Understand sales performance instantly  
-- 💰 Identify profit leaks and cost issues  
-- 📉 Detect underperforming products, regions, or operations  
+</div>
 
 ---
 
-## 🧠 Core Skills
+## 🧩 What I Can Help With
 
-<p>
-<strong>Data & BI</strong><br>
-Power BI • SQL • Excel • Tableau • Python • R
-</p>
-
-<p>
-<strong>Web & Systems</strong><br>
-HTML • CSS • JavaScript • WordPress • WooCommerce
-</p>
-
-<p>
-<strong>Tools</strong><br>
-Power Query • DAX • GitHub • Google Sheets
-</p>
+| Area | Skills |
+|---|---|
+| 📥 **Data Management** | Data Entry, Data Cleaning & Validation |
+| 📊 **Dashboards & Reporting** | Dashboard Development, Reporting Automation |
+| 🔍 **Analysis & BI** | SQL Data Analysis, KPI Tracking, Business Intelligence |
+| 🔄 **Data Engineering** | ETL & Data Preparation, Data Transformation |
+| 🛠️ **Spreadsheets** | Excel & Google Sheets Automation, Visualization |
 
 ---
 
+## 🛠️ Technical Skills
+
+**Data Analysis & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Spreadsheet & Reporting**
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Techniques:** Pivot Tables · Advanced Formulas · Dashboard Creation · Data Cleaning · Data Validation · Reporting Automation · ETL Processes · Data Transformation
 
 ---
 
-## 💼 What I Can Do For Your Business
+## 🚀 Featured Projects
 
-| Problem | Solution |
-|--------|---------|
-| No clear view of sales | Interactive dashboard with KPIs |
-| Profit unclear | Full P&L tracking system |
-| Messy data | Clean, structured datasets |
-| Time wasted on reports | Automated reporting solutions |
+### 📈 Sales Performance Dashboard
+> Analyzed retail sales data and built an interactive dashboard to track revenue trends, product performance, and monthly KPIs.
+
+`Power BI` `Excel`
+
+---
+
+### 🧹 Excel Data Cleaning Project
+> Cleaned and transformed raw business datasets — handling missing values, removing duplicates, and improving overall data quality.
+
+`Excel` `Power Query`
+
+---
+
+### 🗄️ SQL Sales Analysis
+> Wrote SQL queries to analyze sales performance, customer behavior, and revenue trends across multiple datasets.
+
+`SQL`
+
+---
+
+### 📋 Google Sheets Business Dashboard
+> Built automated reports and KPI dashboards for business performance monitoring with dynamic formulas and structured layouts.
+
+`Google Sheets` `Excel`
+
+---
+
+## 📚 Currently Improving
+
+```
+▸ Advanced Power BI        ████████░░  80%
+▸ DAX & Data Modeling      ███████░░░  70%
+▸ Business Intelligence    ████████░░  80%
+▸ Advanced SQL Analytics   ██████░░░░  60%
+```
+
+---
+
+## 🤝 Let's Connect
+
+🌍 **Open to opportunities in:**
+Data Analyst · Reporting Analyst · Business Intelligence · Excel & Google Sheets · Data Entry · Dashboard Development
+
+[![Email](https://img.shields.io/badge/Reach%20me%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your email)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your LinkedIn URL)
+
+---
+
+<div align="center">
+  <sub>Built with focus · Driven by data · Open to opportunities</sub>
+</div>
 
 ---
 
