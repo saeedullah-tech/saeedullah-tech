@@ -7,7 +7,6 @@
 *I help businesses organize, clean, analyze, and visualize data to transform raw information into actionable business insights.
 
 My expertise includes Data Analysis, Data Entry, Data Cleaning, Dashboard Development, Reporting Automation, and Business Intelligence using Excel, Google Sheets, SQL, Power BI, Tableau, and R. —*
-*transforming raw information into actionable business insights.*
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saeedtech990@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-ullah-83806a3a8/)
