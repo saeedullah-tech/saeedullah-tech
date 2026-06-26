@@ -254,7 +254,10 @@
       <span class="pill">Reporting Analyst</span>
       <span class="pill">BI Analyst</span>
       <span class="pill">Operations Analyst</span>
-      <span class="pill">Governance Analyst</span>
+      <span class="pill">Power BI Developer</span>
+      <span class="pill">Reporting Analyst</span>
+      <span class="pill">Data Visualization</span>
+      <span class="pill">Data Management Analyst</span>
       <span class="pill">Business Analyst (Entry Level)</span>
     </div>
 
@@ -271,7 +274,7 @@
       </div>
       <div class="metric">
         <div class="bars"><span style="height:30%;animation-delay:.05s"></span><span style="height:75%;animation-delay:.1s"></span><span style="height:45%;animation-delay:.15s"></span><span style="height:85%;animation-delay:.2s"></span><span style="height:55%;animation-delay:.25s"></span></div>
-        <div class="num">4</div>
+        <div class="num">25</div>
         <div class="label">end-to-end BI &amp; analytics projects</div>
       </div>
       <div class="metric">
@@ -292,7 +295,7 @@
     <div class="about-grid">
       <div>
         <p>I'm a <strong>Computer Science graduate</strong> with hands-on experience in data analytics, business
-        intelligence, and reporting. I work across <strong>SQL, Power BI, Excel, Tableau, and R</strong>, with
+        intelligence, and reporting. I work across <strong>Excel,Google Sheet, SQL, python, Power BI, Excel, Tableau, and R</strong>, with
         practical experience in data cleaning, transformation, visualization, and dashboard development —
         backed by a solid grasp of KPI reporting and BI concepts, plus foundational finance and accounting
         knowledge.</p>
@@ -320,7 +323,6 @@
         <div class="tag-cloud">
           <span class="tag">SQL</span>
           <span class="tag">PostgreSQL</span>
-          <span class="tag">MySQL</span>
           <span class="tag">Power BI</span>
           <span class="tag">Tableau</span>
           <span class="tag">Microsoft Excel</span>
@@ -376,7 +378,11 @@
 
     <div class="project">
       <div class="project-top">
-        <h3>SQL Sales &amp; Transaction Analysis — Pizza Sales Dataset</h3>
+        <h3>
+  <a href="https://github.com/saeedullah-tech/Mobile-Sales-Dashboard" target="_blank">
+    SQL Sales &amp; Transaction Analysis — Pizza Sales Dataset
+  </a>
+</h3>
         <span class="tools">PostgreSQL · pgAdmin 4 · Power BI</span>
       </div>
       <ul>
