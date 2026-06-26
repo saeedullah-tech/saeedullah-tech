@@ -380,7 +380,7 @@
       <div class="project-top">
         <h3>
   <a href="https://github.com/saeedullah-tech/Mobile-Sales-Dashboard" target="_blank">
-    SQL Sales &amp; Transaction Analysis — Pizza Sales Dataset
+    SQL Sales &amp; Mobile-Sales-Dashboard
   </a>
 </h3>
         <span class="tools">PostgreSQL · pgAdmin 4 · Power BI</span>
