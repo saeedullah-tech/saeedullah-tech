@@ -435,8 +435,116 @@
         <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
       </ul>
     </div>
-  </div>
-  <div class="project">
+
+     <div class="project">
+      <div class="project-top">
+        <h3>
+  <a href="https://github.com/saeedullah-tech/powerbi-car-sales-dashboard" target="_blank">
+  Power BI Car Sales Dashboard
+  </a>
+</h3>
+        <span class="tools">SQL · Power BI</span>
+      </div>
+      <ul>
+        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
+        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
+        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
+      </ul>
+    </div>
+
+     <div class="project">
+      <div class="project-top">
+        <h3>
+  <a href="https://github.com/saeedullah-tech/Credit-Card-Fraud-Risk-Analysis" target="_blank">
+  Credit Card Fraud Risk Analysis
+  </a>
+</h3>
+        <span class="tools">SQL · Power BI</span>
+      </div>
+      <ul>
+        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
+        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
+        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
+      </ul>
+    </div>
+
+     <div class="project">
+      <div class="project-top">
+        <h3>
+  <a href="https://github.com/saeedullah-tech/excel-pivot-dashboard-project" target="_blank">
+  Excel Dashboard Project
+  </a>
+</h3>
+        <span class="tools">SQL · Power BI</span>
+      </div>
+      <ul>
+        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
+        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
+        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
+      </ul>
+    </div>
+
+     <div class="project">
+      <div class="project-top">
+        <h3>
+  <a href="https://github.com/saeedullah-tech/Pizza-Sales-Analysis" target="_blank">
+  Pizza Sales Analysis
+  </a>
+</h3>
+        <span class="tools">SQL · Power BI</span>
+      </div>
+      <ul>
+        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
+        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
+        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
+      </ul>
+    </div>
+     <div class="project">
+      <div class="project-top">
+        <h3>
+  <a href="https://github.com/saeedullah-tech/Sales-Analysis" target="_blank">
+  Sales Analysis
+  </a>
+</h3>
+        <span class="tools">SQL · Power BI</span>
+      </div>
+      <ul>
+        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
+        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
+        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
+      </ul>
+    </div>
+     <div class="project">
+      <div class="project-top">
+        <h3>
+  <a href="https://github.com/saeedullah-tech/netflixSQL-project" target="_blank">
+  Netflix SQL Project
+  </a>
+</h3>
+        <span class="tools">· SQL </span>
+      </div>
+      <ul>
+        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
+        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
+        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
+      </ul>
+    </div>
+     <div class="project">
+      <div class="project-top">
+        <h3>
+  <a href="https://github.com/saeedullah-tech/Library-Management-System-" target="_blank">
+  Library Management System
+  </a>
+</h3>
+        <span class="tools">SQL · Power BI</span>
+      </div>
+      <ul>
+        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
+        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
+        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
+      </ul>
+    </div>
+     <div class="project">
       <div class="project-top">
         <h3>
   <a href="https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset" target="_blank">
@@ -451,8 +559,7 @@
         <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
       </ul>
     </div>
-  </div>
-  <div class="project">
+     <div class="project">
       <div class="project-top">
         <h3>
   <a href="https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset" target="_blank">
@@ -467,136 +574,7 @@
         <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
       </ul>
     </div>
-  </div>
-  <div class="project">
-      <div class="project-top">
-        <h3>
-  <a href="https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset" target="_blank">
-  Saudi Job Market Analysis
-  </a>
-</h3>
-        <span class="tools">SQL · Power BI</span>
-      </div>
-      <ul>
-        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
-        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
-        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="project">
-      <div class="project-top">
-        <h3>
-  <a href="https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset" target="_blank">
-  Saudi Job Market Analysis
-  </a>
-</h3>
-        <span class="tools">SQL · Power BI</span>
-      </div>
-      <ul>
-        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
-        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
-        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="project">
-      <div class="project-top">
-        <h3>
-  <a href="https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset" target="_blank">
-  Saudi Job Market Analysis
-  </a>
-</h3>
-        <span class="tools">SQL · Power BI</span>
-      </div>
-      <ul>
-        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
-        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
-        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="project">
-      <div class="project-top">
-        <h3>
-  <a href="https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset" target="_blank">
-  Saudi Job Market Analysis
-  </a>
-</h3>
-        <span class="tools">SQL · Power BI</span>
-      </div>
-      <ul>
-        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
-        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
-        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="project">
-      <div class="project-top">
-        <h3>
-  <a href="https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset" target="_blank">
-  Saudi Job Market Analysis
-  </a>
-</h3>
-        <span class="tools">SQL · Power BI</span>
-      </div>
-      <ul>
-        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
-        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
-        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="project">
-      <div class="project-top">
-        <h3>
-  <a href="https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset" target="_blank">
-  Saudi Job Market Analysis
-  </a>
-</h3>
-        <span class="tools">SQL · Power BI</span>
-      </div>
-      <ul>
-        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
-        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
-        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="project">
-      <div class="project-top">
-        <h3>
-  <a href="https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset" target="_blank">
-  Saudi Job Market Analysis
-  </a>
-</h3>
-        <span class="tools">SQL · Power BI</span>
-      </div>
-      <ul>
-        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
-        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
-        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="project">
-      <div class="project-top">
-        <h3>
-  <a href="https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset" target="_blank">
-  Saudi Job Market Analysis
-  </a>
-</h3>
-        <span class="tools">SQL · Power BI</span>
-      </div>
-      <ul>
-        <li>Structured job-posting data across roles, sectors, and locations in the Saudi market into a relational format for analysis.</li>
-        <li>Used SQL to surface trends in in-demand skills, role frequency, and sector concentration.</li>
-        <li>Visualized which technical skills appeared most often across analytics and BI postings.</li>
-      </ul>
-    </div>
-  </div>
-</section>
+   </section>
 
 <section id="experience">
   <div class="wrap">
