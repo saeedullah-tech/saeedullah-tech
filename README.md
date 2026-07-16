@@ -1,6 +1,6 @@
 # Hi, I'm Saeed Ullah 👋
 
-### Junior Data Analyst | Power BI | SQL | Excel | Tableau | Data Visualization
+### Junior Data Analyst | Power BI | Python | SQL | Excel | Tableau | Data Visualization
 
 I am a Computer Science graduate with a strong interest in data analytics and business intelligence. I enjoy transforming raw data into meaningful insights through data cleaning, analysis, visualization, and interactive dashboards. My goal is to help organizations make informed, data-driven decisions by delivering accurate reports and actionable business insights.
 
