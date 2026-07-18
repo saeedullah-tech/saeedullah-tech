@@ -2,11 +2,12 @@
 
 ### Junior Data Analyst | Power BI | Python | SQL | Excel | Tableau | Data Visualization
 
-I am a Computer Science graduate with a strong interest in data analytics and business intelligence. I enjoy transforming raw data into meaningful insights through data cleaning, analysis, visualization, and interactive dashboards. My goal is to help organizations make informed, data-driven decisions by delivering accurate reports and actionable business insights.
+I am a Computer Science graduate with a strong interest in Data Analytics and Business Intelligence. I enjoy transforming raw data into meaningful insights through data cleaning, analysis, visualization, and interactive dashboards. My portfolio showcases projects using Excel, SQL, Python, and Power BI to solve real-world business problems, uncover trends, and support data-driven decision-making.
 
-Currently seeking opportunities as a **Junior Data Analyst**, **Business Intelligence Analyst**, **Reporting Analyst**, or **Data Coordinator** in Saudi Arabia.
+I am continuously expanding my analytical skills by working on real datasets and building practical projects in exploratory data analysis, dashboard development, reporting, and business intelligence.
 
----
+**Open to opportunities as a Data Analyst, Business Intelligence Analyst, Reporting Analyst, MIS Analyst, Data Coordinator, or Master Data Specialist in Saudi Arabia.**
+
 
 # 👨‍💻 About Me
 
@@ -56,6 +57,20 @@ Currently seeking opportunities as a **Junior Data Analyst**, **Business Intelli
 * Bookmarks
 * Slicers
 * Custom Tooltips
+
+### Python & Data Science
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+* Data Manipulation
+* Data Transformation
+* Data Aggregation
+* Statistical Computing
+* Data Visualization
 
 ### Database & Querying
 
@@ -130,9 +145,7 @@ https://github.com/saeedullah-tech
 * Advanced Data Analysis Techniques
 * Statistical Data Analysis
 * Predictive Analytics
-* Microsoft Fabric
 * Python for Data Analysis
-* Azure Data Fundamentals
 
 ---
 
@@ -143,14 +156,6 @@ https://www.linkedin.com/in/saeedullah-tech
 
 **GitHub**
 https://github.com/saeedullah-tech
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedullah-tech\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedullah-tech\&layout=compact)
 
 ---
 
