@@ -1,164 +1,103 @@
 # Hi, I'm Saeed Ullah 👋
 
-### Junior Data Analyst | Power BI | Python | SQL | Excel | Tableau | Data Visualization
+### Junior Data Analyst | Power BI | SQL | Excel | Python | Tableau
 
-I am a Computer Science graduate with a strong interest in Data Analytics and Business Intelligence. I enjoy transforming raw data into meaningful insights through data cleaning, analysis, visualization, and interactive dashboards. My portfolio showcases projects using Excel, SQL, Python, and Power BI to solve real-world business problems, uncover trends, and support data-driven decision-making.
+I turn raw data into dashboards and reports that managers can act on. I'm a Computer Science graduate (University of Malakand, Pakistan) based in **Riyadh**, working in inventory and data operations while I build my analytics portfolio. At Noon I handle stock counts across **400+ locations and 20,000+ items**, so I know the data behind warehouses, stock, and reporting, not just the tools.
 
-I am continuously expanding my analytical skills by working on real datasets and building practical projects in exploratory data analysis, dashboard development, reporting, and business intelligence.
+**Open to:** Data Analyst · BI Analyst · Reporting Analyst · MIS Analyst · Data Coordinator · Master Data Specialist roles in Saudi Arabia.
 
-**Open to opportunities as a Data Analyst, Business Intelligence Analyst, Reporting Analyst, MIS Analyst, Data Coordinator, or Master Data Specialist in Saudi Arabia.**
-
-
-# 👨‍💻 About Me
-
-* 📊 Passionate about Data Analytics and Business Intelligence
-* 📈 Build interactive dashboards using Power BI and Tableau
-* 📉 Analyze business data to identify trends, patterns, and opportunities
-* 🧹 Skilled in data cleaning, transformation, and validation
-* 🗄️ Write efficient SQL queries for data extraction and analysis
-* 📚 Continuously learning advanced analytics tools and industry best practices
-* 🌍 Open to opportunities across Saudi Arabia
+📧 [Saeedtech990@gmail.com](mailto:Saeedtech990@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/saeedullah-tech) · 🌐 [Portfolio](https://saeedullah-tech.github.io/Portfolio/)
 
 ---
 
-# 🛠️ Technical Skills
+## 📌 Snapshot
 
-### Data Analytics
-
-* Data Cleaning
-* Data Validation
-* Data Wrangling
-* Exploratory Data Analysis (EDA)
-* Descriptive Analytics
-* Diagnostic Analytics
-* Statistical Analysis
-* Trend Analysis
-* Variance Analysis
-* Root Cause Analysis
-* Business Data Analysis
-* KPI Development
-* Report Automation
-* Data Storytelling
-* Dashboard Design
-* Data Visualization
-* ETL Concepts
-* Data Quality Assessment
-
-### Business Intelligence
-
-* Microsoft Power BI
-* Tableau
-* Power Query
-* DAX
-* Data Modeling
-* Star Schema
-* Interactive Dashboards
-* Drill-through Reports
-* Bookmarks
-* Slicers
-* Custom Tooltips
-
-### Python & Data Science
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-* Data Manipulation
-* Data Transformation
-* Data Aggregation
-* Statistical Computing
-* Data Visualization
-
-### Database & Querying
-
-* SQL
-* MySQL
-* Joins
-* Subqueries
-* Common Table Expressions (CTEs)
-* Window Functions
-* Aggregate Functions
-* Views
-* Stored Procedures (Basic)
-
-### Microsoft Excel
-
-* Advanced Excel
-* Pivot Tables
-* Pivot Charts
-* Power Query
-* Power Pivot
-* XLOOKUP
-* INDEX & MATCH
-* IF Functions
-* Conditional Formatting
-* Data Validation
-* Charts
-* Dynamic Dashboards
-
-### Programming
-
-* R (Basic)
-* HTML
-* CSS
-* JavaScript
-
-### Tools
-
-* Git
-* GitHub
-* Google Sheets
-* Microsoft Office Suite
+| | |
+|---|---|
+| **Location** | Riyadh, Saudi Arabia (transferable Iqama) |
+| **Languages** | English (fluent), Arabic (intermediate), Urdu (native) |
+| **Main tools** | SQL, Power BI, Excel, Python |
+| **Proof of work** | 16 projects on GitHub, 9 certifications |
 
 ---
 
-# 📂 Portfolio
+## 💼 Experience
 
-My GitHub repositories showcase practical projects in:
+**Inventory Associate, Noon, Riyadh** (Oct 2026 to present)
+Count stock across 400+ locations covering 20,000+ items, investigate differences between system and physical stock, and flag mismatches for correction.
 
-* Power BI Dashboards
-* SQL Data Analysis
-* Tableau Dashboards
-* Excel Analytics
-* Business Intelligence
-* Interactive Reporting
-* Data Visualization
-* KPI Dashboards
-* Dashboard Design
-* Data Cleaning and Transformation
+**Data Clerk, Keemart, Riyadh** (Aug 2026 to Sep 2026)
+Maintained attendance records, goods updates, and goods documentation for warehouse operations.
 
-Explore all projects here:
+**Data & Operations Associate, Travel & Visa Services Agency, Riyadh** (Mar 2026 to Aug 2026)
+Tracked visa applications and bookings at high daily volume, built recurring management reports, and standardized Excel templates to cut weekly reporting time.
 
-**GitHub:**
-https://github.com/saeedullah-tech
+**Document Controller, C&W, Pakistan** (Mar 2024 to Sep 2025)
+Managed project documents and approval cycles, and set up a version-control system that reduced duplicate errors.
 
 ---
 
-# 📚 Currently Learning
+## 📂 Featured projects
 
-* Advanced SQL Optimization
-* Advanced DAX
-* Tableau Advanced Calculations
-* Advanced Data Analysis Techniques
-* Statistical Data Analysis
-* Predictive Analytics
-* Python for Data Analysis
+### Power BI
+| Project | What it shows |
+|---|---|
+| **HR Attrition Analysis Dashboard** | Employees earning up to 5K were about 69% of the 237 who left; most leave within two years |
+| **Oil & Gas Executive Dashboard** | Three linked dashboards for finance, production, safety, and emissions on a star schema |
+| [**European Real Estate Pricing Dashboard**](https://github.com/saeedullah-tech/REAL-ESTATE-dashboard) | 5,000+ listings across 10 cities with a pricing risk model |
+| **Regional Sales Performance Dashboard** | YoY time-intelligence DAX; South region down 31% against Central |
+| [**Mobile Sales Performance Dashboard**](https://github.com/saeedullah-tech/Mobile-Sales-Dashboard) | 4,000+ transactions by city, brand, and payment method |
+| [Power BI Car Sales Dashboard](https://github.com/saeedullah-tech/powerbi-car-sales-dashboard) | Car sales performance dashboard |
+
+### SQL & Python
+| Project | What it shows |
+|---|---|
+| **Retail Sales Data Analysis** | PostgreSQL cleaning, aggregations, and a CTE for morning, afternoon, and evening sales |
+| [**Netflix Content Analysis**](https://github.com/saeedullah-tech/netflixSQL-project) | 14 business questions using window functions and array unnesting |
+| [**Saudi Job Market Analysis**](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset) | Most in-demand skills in Saudi analytics job postings |
+| [**Diwali Sales Analysis**](https://github.com/saeedullah-tech/Sales_Analysis) | 11,239 clean records with Pandas and Seaborn; 70/30 revenue split by gender |
+| [Credit Card Fraud Risk Analysis](https://github.com/saeedullah-tech/Credit-Card-Fraud-Risk-Analysis) | Fraud risk analysis |
+| [Pizza Sales Analysis](https://github.com/saeedullah-tech/Pizza-Sales-Analysis) | Pizza sales analysis |
+| [Library Management System](https://github.com/saeedullah-tech/Library-Management-System-) | Library database project |
+
+### Excel
+| Project | What it shows |
+|---|---|
+| **Inventory Management System** | Excel-only stock tracker with a live dashboard and automatic low-stock alerts showing vendor phone numbers |
+| **Operations Data Quality Monitoring** | REVIEW/OK flagging with pivot reports by employee and category |
+| [**Excel Pivot Sales Dashboard**](https://github.com/saeedullah-tech/excel-pivot-dashboard-project) | Sales trends, order status, and customer segments with slicers |
 
 ---
 
-# 📫 Connect With Me
+## 🛠️ Skills
 
-**LinkedIn**
-https://www.linkedin.com/in/saeedullah-tech
-
-**GitHub**
-https://github.com/saeedullah-tech
+| Area | Tools and techniques |
+|---|---|
+| **Business Intelligence** | Power BI (DAX, Power Query, star schema, drill-through, bookmarks, slicers), Tableau |
+| **SQL & Databases** | PostgreSQL, MySQL, joins, subqueries, CTEs, window functions, views |
+| **Excel** | Pivot tables and charts, Power Query, XLOOKUP, INDEX & MATCH, conditional formatting, data validation, dashboards |
+| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Jupyter |
+| **Analysis** | Data cleaning and validation, EDA, KPI development, trend and variance analysis, root cause analysis, data storytelling |
+| **Other** | R (basic), HTML, CSS, JavaScript, Git and GitHub, Google Sheets, Microsoft Office |
 
 ---
 
-# 🎯 Career Objective
+## 🎓 Education & certifications
 
-To contribute to an organization's growth by transforming complex data into actionable insights through data analysis, business intelligence, and visualization. I am committed to continuous learning and applying analytical skills to improve business performance, support strategic decision-making, and deliver measurable value through data.
+**B.S. Computer Science**, University of Malakand, Pakistan
+
+Microsoft Power BI · Advanced Microsoft Excel · SQL & MySQL for Data Analysis · Data Analytics with Python · Data Analytics & Business Intelligence Training · Introduction to SQL · Introduction to Finance & Accounting · Front-End Web Development · Soft Skills Training
+
+---
+
+## 📚 Currently learning
+
+Advanced SQL optimization · Advanced DAX · Tableau advanced calculations · Statistical analysis · Predictive analytics
+
+---
+
+## 📫 Let's connect
+
+Send me a role and I'll reply with the projects most relevant to it.
+
+[Email](mailto:Saeedtech990@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saeedullah-tech) · [GitHub](https://github.com/saeedullah-tech)
