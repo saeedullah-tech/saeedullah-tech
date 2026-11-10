@@ -4,7 +4,12 @@
 
 I turn raw data into dashboards and reports that managers can act on. I'm a Computer Science graduate (University of Malakand, Pakistan) based in **Riyadh**, working in inventory and data operations while I build my analytics portfolio. At Noon I handle stock counts across **400+ locations and 20,000+ items**, so I know the data behind warehouses, stock, and reporting, not just the tools.
 
-**Open to:** Data Analyst · BI Analyst · Reporting Analyst · MIS Analyst · Data Coordinator · Master Data Specialist roles in Saudi Arabia.
+**Open to any data, reporting, or analytics role in Saudi Arabia where I can use SQL, Power BI, Excel, and Python**, for example:
+
+- Data Analyst, BI Analyst, Power BI Developer, Reporting Analyst, MIS Analyst
+- Business Analyst, Operations Analyst, Performance and KPI Analyst
+- Supply Chain, Inventory, Logistics, or Warehouse Data Analyst
+- Data Coordinator, Master Data Specialist, Data Quality or Documentation roles
 
 📧 [Saeedtech990@gmail.com](mailto:Saeedtech990@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/saeedullah-tech) · 🌐 [Portfolio](https://saeedullah-tech.github.io/Portfolio/)
 
@@ -14,6 +19,7 @@ I turn raw data into dashboards and reports that managers can act on. I'm a Comp
 
 | | |
 |---|---|
+| **Looking for** | Data, reporting, and analytics roles across industries in Saudi Arabia |
 | **Location** | Riyadh, Saudi Arabia (transferable Iqama) |
 | **Languages** | English (fluent), Arabic (intermediate), Urdu (native) |
 | **Main tools** | SQL, Power BI, Excel, Python |
